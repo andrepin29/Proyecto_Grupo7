@@ -8,6 +8,8 @@
 
 ## Codacy code
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/27200680284746f6870160d13317ba3e)](https://www.codacy.com/app/andrepin29/Proyecto_Grupo7?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=andrepin29/Proyecto_Grupo7&amp;utm_campaign=Badge_Grade)
+
 ## Codacy coverage
 
 
