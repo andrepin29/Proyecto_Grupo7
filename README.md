@@ -12,6 +12,7 @@
 
 ## Codacy coverage
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7bdbed1d325a43b2a69c511b2e43828f)](https://www.codacy.com/app/andrepin29/Proyecto_Grupo7?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=andrepin29/Proyecto_Grupo7&amp;utm_campaign=Badge_Grade)
 
 ## Snyk
                 
